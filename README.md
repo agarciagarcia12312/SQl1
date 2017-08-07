@@ -1,4 +1,6 @@
 This file contains two programs that function with sql
+	
+******BOTH NPM INSTALL (INQUIRER AND SQL) ARE NEEDED FOR APP TO WORK********
 
 
 #SQl.js which: 
